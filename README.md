@@ -22,4 +22,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### Links
 
-https://www.youtube.com/@webstylepress
+WebStylePress
+
+Tutorial: https://youtu.be/u2rvIO4n92s
+
+Channel Link: https://www.youtube.com/@webstylepress
