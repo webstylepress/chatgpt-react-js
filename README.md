@@ -22,4 +22,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### Links
 
-https://www.youtibe.com/@webstylepress
+https://www.youtube.com/@webstylepress
